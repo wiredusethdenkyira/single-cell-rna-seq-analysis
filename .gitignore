@@ -1,0 +1,8 @@
+.Rproj.user/
+.Rhistory
+.RData
+GSE132771_RAW/
+seu_nml1_filtered.rds
+renv/library/
+renv/staging/
+renv/cellar/
